@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "ID": "1",
+      "Name": "Karthik"
+    },{
+      "ID": "2",
+      "Name": "Muhammad"
+    },{
+      "ID": "3",
+      "Name": "Eddie"
+    }
+  ],
+  "location": {
+    "type": "point",
+    "coordinate": [
+      {
+        "address": "279 Bedford Ave, Brooklyn, NY 11211, USA",
+        "lat": 40.7142484,
+        "long":-73.9614103
+      },
+      {
+        "address": "1600 Amphitheatre Pkwy, Mountain View, CA 94043, USA",
+        "lat": 37.4267861,
+        "long":-122.0806032
+      },
+      {
+        "address": "123 Giles Road, Omaha, NE 11211, USA",
+        "lat": 12.7142484,
+        "long":67.9614103
+      }
+    ]
+  }
+
+}
